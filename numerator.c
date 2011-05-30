@@ -9,7 +9,7 @@ int main(){
 
     printf("\nEnter the year to convert:");
 
-    scanf("%4s", year);//only look at 4 characters of hte string so we don't break the data structure
+    scanf("%4s", year);//only look at 4 characters of the string so we don't break the data structure
 
     char *my_pointer = year;
 
